@@ -1,7 +1,7 @@
 # Digital-Literacy-Project
 Name: Yogesh
-Registration Number: YOUR_REG_NO
-Branch: B.Tech (Your Branch)
+Registration Number: 25BCY10076
+Branch: B.Tech (Cyber Security)
 Year: 1st Year
 
 
@@ -20,12 +20,16 @@ Created an infographic to explain digital literacy and its importance. It includ
 *Module2:Student Digital Portfolia
 Built and updated professional profiles on platforms such as GitHub and LinkedIn. Learned how these platforms are used for showcasing skills, networking, and career opportunities.
 
-🔗 GitHub Profile: 
+🔗 GitHub Profile: https://github.com/yogesh276
 
-🔗 LinkedIn Profile: 
+🔗 LinkedIn Profile: www.linkedin.com/in/
+yogesh-1748b5382
+
+
 
 *Module3:Coding and Collaboration Platforms
 Explored coding platforms by solving a beginner-level problem and created a Google Form quiz for digital literacy awareness. This helped me understand basic problem-solving and collaboration tools
+https://docs.google.com/forms/d/e/1FAIpQLSfB-p6kUymfbViuWnVEHGdFpkUHMGj4J_jfuwbfIvcTM1bxKQ/viewform?usp=publish-editor
 
 *Module4:Email Etiquette and Communication
 Explored coding platforms by solving a beginner-level problem and created a Google Form quiz for digital literacy awareness. This helped me understand basic problem-solving and collaboration tools.
@@ -38,5 +42,4 @@ References:
 *Canva,GitHub,Linkedin,Google forms
 *National Cyber Crime Portal
 
-https://docs.google.com/forms/d/e/1FAIpQLSfB-p6kUymfbViuWnVEHGdFpkUHMGj4J_jfuwbfIvcTM1bxKQ/viewform?usp=publish-editor
 
